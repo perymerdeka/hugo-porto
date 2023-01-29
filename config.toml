@@ -1,6 +1,6 @@
 baseurl = "https://motorent.id"
 DefaultContentLanguage = "en"
-title = "Beautiful Hugo"
+title = "Motorent.id"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
